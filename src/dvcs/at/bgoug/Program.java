@@ -1,7 +1,7 @@
 package dvcs.at.bgoug;
 
 /**
- * Javadoc added
+ * Javadoc added.
  * @author Mihail Stoynov
  */
 public class Program {
