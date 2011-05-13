@@ -2,6 +2,7 @@ package dvcs.at.bgoug;
 
 /**
  * Javadoc added.
+ * 
  * @author Mihail Stoynov
  */
 public class Program {
