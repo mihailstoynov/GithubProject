@@ -10,4 +10,6 @@ public class Program {
 		System.out.println("This presentation is interesting!");
 		System.out.println("Don't fall asleep!");
 	}
+	
+	public void method2() {}
 }
